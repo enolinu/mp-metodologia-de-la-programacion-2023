@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"uo.mp.lab.util.check"},{"l":"uo.mp.lab.util.console"},{"l":"uo.mp.lab01.game.model.game2048"},{"l":"uo.mp.lab01.game.model.util"},{"l":"uo.mp.lab01.game.ui"}];updateSearchResults();

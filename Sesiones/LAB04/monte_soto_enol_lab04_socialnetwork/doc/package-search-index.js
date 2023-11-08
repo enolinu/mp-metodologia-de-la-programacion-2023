@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"uo.mp.lab03.socialnetwork.main"},{"l":"uo.mp.lab03.socialnetwork.model"},{"l":"uo.mp.lab03.socialnetwork.service"},{"l":"uo.mp.lab03.socialnetwork.ui"},{"l":"uo.mp.lab03.test.socialnetwork"}];updateSearchResults();
